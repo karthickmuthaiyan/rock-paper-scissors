@@ -30,7 +30,7 @@
 					<version>2.1</version>
 
 					<configuration>
-						<!-- context root for Java web apps -->
+						<!--  context root for Java web apps -->
 						<path>/</path>
 						<port>8088</port>
 						<!-- name of Tomcat executable jar file -->
